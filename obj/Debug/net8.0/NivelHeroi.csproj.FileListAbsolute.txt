@@ -1,0 +1,14 @@
+C:\Users\Desk\Documents\desafios dio\NivelHeroi\obj\Debug\net8.0\NivelHeroi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desk\Documents\desafios dio\NivelHeroi\obj\Debug\net8.0\NivelHeroi.AssemblyInfoInputs.cache
+C:\Users\Desk\Documents\desafios dio\NivelHeroi\obj\Debug\net8.0\NivelHeroi.AssemblyInfo.cs
+C:\Users\Desk\Documents\desafios dio\NivelHeroi\obj\Debug\net8.0\NivelHeroi.csproj.CoreCompileInputs.cache
+C:\Users\Desk\Documents\desafios dio\NivelHeroi\bin\Debug\net8.0\NivelHeroi.exe
+C:\Users\Desk\Documents\desafios dio\NivelHeroi\bin\Debug\net8.0\NivelHeroi.deps.json
+C:\Users\Desk\Documents\desafios dio\NivelHeroi\bin\Debug\net8.0\NivelHeroi.runtimeconfig.json
+C:\Users\Desk\Documents\desafios dio\NivelHeroi\bin\Debug\net8.0\NivelHeroi.dll
+C:\Users\Desk\Documents\desafios dio\NivelHeroi\bin\Debug\net8.0\NivelHeroi.pdb
+C:\Users\Desk\Documents\desafios dio\NivelHeroi\obj\Debug\net8.0\NivelHeroi.dll
+C:\Users\Desk\Documents\desafios dio\NivelHeroi\obj\Debug\net8.0\refint\NivelHeroi.dll
+C:\Users\Desk\Documents\desafios dio\NivelHeroi\obj\Debug\net8.0\NivelHeroi.pdb
+C:\Users\Desk\Documents\desafios dio\NivelHeroi\obj\Debug\net8.0\NivelHeroi.genruntimeconfig.cache
+C:\Users\Desk\Documents\desafios dio\NivelHeroi\obj\Debug\net8.0\ref\NivelHeroi.dll
